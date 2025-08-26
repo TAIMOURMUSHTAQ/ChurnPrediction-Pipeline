@@ -106,7 +106,7 @@ Prerequisites
 Installation
 1.	Clone the repository:
 bash
-git clone https://github.com/your-username/End_to_End_ML_Pipeline.git
+git clone https://github.com/taimourmushtaq/ChurnPrediction-.git
 cd End_to_End_ML_Pipeline
 2.	Install dependencies:
 bash
